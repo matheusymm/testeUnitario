@@ -15,3 +15,7 @@ Existem duas fórmulas, uma para homens e uma para mulheres:
 # Aplicação e Testes
 A aplicação consistem em uma calculadora de taxa de metabolismo basal.
 Os testes realizados têm como objetivo verificar a corretude do cálculo. Nesse sentido, o cálculo foi feito para homens e mulheres, em que as variações estão no nível de atividade.
+Para rodar, basta rodar:
+```
+python3 tmb.py
+```
