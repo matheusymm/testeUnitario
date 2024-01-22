@@ -9,8 +9,8 @@ Existem fórmulas matemáicas que levam em consideração fatores como idade, se
   - Altamente Ativo (exercício pesado de 5 a 6 dias por semana): 1.725
   - Extremamente Ativo (exercício pesado diariamente e até 2 vezes por dia): 1.9
 Existem duas fórmulas, uma para homens e uma para mulheres:
-  - TMBh = fatAtividade*(66 + 13.7*peso + 5*altura - 6.8*idade)
-  - TMBm = fatAtividade*(655 + 9.6*peso + 1.8*altura - 4.7*idade)
+  - TMBh = fatAtividade*(66 + 13.7 * peso + 5 * altura - 6.8 * idade)
+  - TMBm = fatAtividade*(655 + 9.6 * peso + 1.8 * altura - 4.7 * idade)
 
 # Aplicação e Testes
 A aplicação consistem em uma calculadora de taxa de metabolismo basal.
