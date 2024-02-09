@@ -19,3 +19,4 @@ Para executar o programa, com a execução dos testes unitários, basta rodar o 
 ```
 python3 tmb.py -v
 ```
+Também é possível testar fazendo uma nova execução na aba *"Actions"*, selecionando o *workflow* *Python Application* e escolhendo a *run* *Update python-app.yml*.
